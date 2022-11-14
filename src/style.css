@@ -1,5 +1,5 @@
 /* styles go here */
-label {
+.field {
   display: block;
   margin-bottom: 10px;
 }
@@ -8,10 +8,10 @@ label {
   display: inline-block;
 }
 
-fieldset {
+.block {
   margin-bottom: 20px;
 }
 
-.last-one {
+.lastOne {
   margin-bottom: 0;
 }
