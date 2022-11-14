@@ -1,1 +1,17 @@
 /* styles go here */
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.last-one {
+  margin-bottom: 0;
+}
